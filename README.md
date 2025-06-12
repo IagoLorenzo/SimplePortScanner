@@ -1,2 +1,2 @@
 # SimplePortScanner
-Simple and aggressive port scanner
+Escaner de puertos simple rápido y agresivo 
